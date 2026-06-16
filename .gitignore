@@ -15,7 +15,7 @@ backend/dist/
 
 # Logs
 *.log
-npm-debug.log*
+npm-debug.log*git 
 yarn-debug.log*
 yarn-error.log*
 
